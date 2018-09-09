@@ -1,3 +1,3 @@
 def valid_move?(board, index)
-  taken 
+  taken = true
 end
